@@ -23,7 +23,7 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Software Engineer.", "Student."],
+    strings: ["Software Engineer."],
     typeSpeed: 70,
     loop: true,
     startDelay: 1000,
